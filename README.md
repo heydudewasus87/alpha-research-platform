@@ -5,9 +5,7 @@ Information Coefficient, blends them by conviction, runs the blend through a ris
 constrained optimizer, and backtests the result walk-forward with realistic transaction
 costs — the same pipeline a quant fund uses to turn raw data into a managed portfolio.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/alpha-research-platform/blob/main/Alpha_Research_Platform.ipynb)
-
-> Replace `YOUR_USERNAME` in the badge link above with your GitHub username.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heydudewasus87/alpha-research-platform/blob/main/Alpha_Research_Platform.ipynb)
 
 ---
 
