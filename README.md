@@ -5,6 +5,8 @@ would have performed in the past. It scores stocks using several proven strategi
 combines those scores, decides how much money to put in each stock, and checks the
 results, similar to how quant investment funds work.
 
+Some functions may not work in GitHub preview, so you might have to run it through Google Colab.
+
 ---
 
 ## Background
